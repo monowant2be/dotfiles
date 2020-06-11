@@ -1,0 +1,17 @@
+{
+  "diagnostic.signOffset": 9999999,
+  "diagnostic.warningSign": " ",
+  "diagnostic.errorSign": " ",
+  "list.indicator": " ",
+  "list.selectedSignText": " ",
+  "typescript.validate.enable": false,
+  "javascript.validate.enable": false,
+  "eslint.filetypes": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "svelte"
+  ],
+  "coc.preferences.formatOnSaveFiletypes": ["javascript", "json", "css"]
+}
